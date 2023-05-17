@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning **React** in depth
 - 👩‍💻 Looking for a job
 
-📫 Contact:
+📫 Contacts:
 - llallonen@gmail.com
 - https://t.me/Nguoxtf
