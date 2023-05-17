@@ -9,4 +9,4 @@
 
 📫 Contact:
 - llallonen@gmail.com
-- https://t.me/ngouxtf
+- https://t.me/Nguoxtf
